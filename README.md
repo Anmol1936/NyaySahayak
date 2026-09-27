@@ -11,8 +11,7 @@ The platform allows users to search legal provisions using **IPC section numbers
 ## 🚀 Live Demo
 
 🌐 **Live Application:**  
-[Add your Vercel deployment link here]
-
+-> https://nyay-sahayak-omega.vercel.app
 > The frontend is deployed using Vercel, while the backend is hosted separately.
 
 ---
@@ -52,11 +51,6 @@ The main objectives of NyaySahayak are:
 - 🏗️ Create a scalable foundation for future AI-powered legal assistance
 
 ---
-
-# ✨ Key Features
-
-### 1. IPC Section Search
-
 Users can directly search using IPC section numbers.
 
 Example:
